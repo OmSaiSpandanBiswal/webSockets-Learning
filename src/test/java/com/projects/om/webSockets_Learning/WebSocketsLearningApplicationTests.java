@@ -1,4 +1,4 @@
-package com.project.learning.webSockets_Learning;
+package com.projects.om.webSockets_Learning;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

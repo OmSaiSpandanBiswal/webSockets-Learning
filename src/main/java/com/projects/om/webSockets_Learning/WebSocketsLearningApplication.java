@@ -1,4 +1,4 @@
-package com.project.learning.webSockets_Learning;
+package com.projects.om.webSockets_Learning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
