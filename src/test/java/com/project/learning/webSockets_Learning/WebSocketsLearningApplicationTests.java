@@ -1,0 +1,13 @@
+package com.project.learning.webSockets_Learning;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class WebSocketsLearningApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
